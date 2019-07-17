@@ -1,0 +1,25 @@
+{
+  "name": "queue-monitor",
+  "version": "1.0.0",
+  "description": "Queue Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepadawan93/queue-monitor.git"
+  },
+  "author": "ekovacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepadawan93/queue-monitor/issues"
+  },
+  "homepage": "https://github.com/codepadawan93/queue-monitor#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "sequelize": "^5.10.1",
+    "sqlite3": "^4.0.9"
+  }
+}
