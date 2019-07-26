@@ -1,3 +1,7 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import $ from "jquery";
+import "bootstrap/dist/js/bootstrap.bundle.min";
+import "font-awesome/css/font-awesome.css";
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
