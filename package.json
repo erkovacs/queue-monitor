@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/codepadawan93/queue-monitor#readme",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
